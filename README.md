@@ -43,7 +43,7 @@ This project is part of my portfolio and reflects my commitment to learning and 
 
 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/boubacarsall/)  
+- [LinkedIn](https://www.linkedin.com/in/boubacar-sall-67a37529a/)  
 - [GitHub](https://github.com/boubacarsall)
 
 ---
