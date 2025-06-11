@@ -44,8 +44,6 @@ This project is part of my portfolio and reflects my commitment to learning and 
 Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/boubacar-sall-67a37529a/)  
-- [GitHub](https://github.com/boubacarsall)
-
 ---
 
 Thanks for checking out this project! Feel free to fork, star ⭐, or reach out if you’d like to collaborate or chat data!
